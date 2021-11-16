@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## TRADE PRINTS.AI
 
 You can use the [editor on GitHub](https://github.com/cruise2121/cruise2121.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
